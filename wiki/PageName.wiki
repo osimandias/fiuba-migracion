@@ -1,5 +1,3 @@
-#Introducción
-
 = Introducción =
 
 Consulte los archivos incluidos con el código por documentación sobre el proyecto.
